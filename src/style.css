@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./fonts/my-font1.woff') format('.woff'),
+        url('./fonts/my-font2.woff2') format('.woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: sandybrown;
+    /* background: url('./images//Screen\ Shot\ 2024-02-05\ at\ 1.45.21\ PM.png'); */
+    font-family: 'MyFont';
+}
+.testting-sake {
+    font: -12px;
+    font-style: italic;
+}
