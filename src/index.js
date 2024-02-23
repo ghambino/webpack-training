@@ -6,6 +6,7 @@ async function component() {
     const element = document.createElement('div');
     const btn = document.createElement('button');
     const br = document.createElement('br');
+    const b2 = document.createElement('br');
 
     // const { default: _ } = await import('lodash');
 
